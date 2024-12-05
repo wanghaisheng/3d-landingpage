@@ -1,3 +1,5 @@
+2024-12-06
+
 # iPhone 15 Pro Landing Page Replica
 
 This project is a replica of the iPhone 15 Pro landing page from Apple's website. It is built using React, Three.js, GSAP, TypeScript, Vite, and Tailwind CSS to create a visually stunning and interactive user experience.
